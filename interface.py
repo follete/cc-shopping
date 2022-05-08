@@ -22,7 +22,7 @@ class ReText(object):
 1、支持动态地更改抢购的商品；
 根据输入的sku_ids更改  done
 2、执行的信息放入gui中  done
-3、支持同时抢购多个商品
+3、支持同时抢购多个商品组合
 '''
 class RushGUI(object):
     def __init__(self, jd_user):
